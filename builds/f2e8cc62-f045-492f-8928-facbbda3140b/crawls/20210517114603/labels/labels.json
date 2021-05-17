@@ -1,0 +1,41 @@
+{
+    "elems": {
+        "iter_00000_step_00005_28_h3.png": [
+            "txt_unlimited_group_fitness"
+        ], 
+        "iter_00000_step_00007_14_button.png": [
+            "btn_explore_training"
+        ], 
+        "iter_00000_step_00013_26_button.png": [
+            "btn_claim_offer_membership_page"
+        ], 
+        "iter_00000_step_00016_49_h1.png": [
+            "ttl_membership_with_benefits"
+        ], 
+        "iter_00000_step_00017_14_button.png": [
+            "btn_claim_offer_home_page"
+        ], 
+        "iter_00000_step_00017_19_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00017_42_a.png": [
+            "mnu_join_online"
+        ], 
+        "iter_00000_step_00017_45_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00017_47_a.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00017_48_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00017_5_a.png": [
+            "mnu_personal_training"
+        ], 
+        "iter_00000_step_00017_8_a.png": [
+            "mnu_member_benefits"
+        ]
+    }, 
+    "screens": {}
+}

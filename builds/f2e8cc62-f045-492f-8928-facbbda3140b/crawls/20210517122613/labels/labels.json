@@ -1,0 +1,48 @@
+{
+    "elems": {
+        "iter_00000_step_00002_1_h1.png": [
+            "ttl_welcome_forward"
+        ], 
+        "iter_00000_step_00007_6_input.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00008_6_input.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00012_16_span.png": [
+            "txt_orlando_fl_usa"
+        ], 
+        "iter_00000_step_00016_69_div.png": [
+            "div_boston"
+        ], 
+        "iter_00000_step_00017_6_input.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00019_61_a.png": [
+            "btn_view_this_club_bay_street"
+        ], 
+        "iter_00000_step_00027_123_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00027_34_button.png": [
+            "btn_schedule_a_visit"
+        ], 
+        "iter_00000_step_00027_82_li.png": [], 
+        "iter_00000_step_00027_88_a.png": [
+            "btn_classes"
+        ], 
+        "iter_00000_step_00029_16_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00031_26_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00033_10_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00035_2_input.png": [
+            "inp_phone_number"
+        ]
+    }, 
+    "screens": {}
+}

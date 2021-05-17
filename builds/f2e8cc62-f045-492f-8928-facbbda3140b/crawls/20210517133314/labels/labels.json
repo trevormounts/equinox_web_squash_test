@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00000_19_span.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00000_28_span.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00003_24_button.png": [
+            "mnu_mens"
+        ], 
+        "iter_00000_step_00003_47_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00003_48_button.png": [
+            "mnu_accessories"
+        ], 
+        "iter_00000_step_00003_6_button.png": [
+            "mnu_womens"
+        ], 
+        "iter_00000_step_00003_7_button.png": [
+            "mnu_sale"
+        ]
+    }, 
+    "screens": {}
+}

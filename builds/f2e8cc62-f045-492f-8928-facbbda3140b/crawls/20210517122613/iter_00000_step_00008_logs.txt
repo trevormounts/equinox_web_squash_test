@@ -1,0 +1,1 @@
+[{u'timestamp': 1621280312707, u'message': u"https://www.equinox.com/_next/static/chunks/fd0a000c363bdbea489e595e335239b8626148d0.b4ceb60d93c88950da97.js 0:88106 Uncaught TypeError: Cannot read property 'slice' of undefined", u'level': u'SEVERE'}]
