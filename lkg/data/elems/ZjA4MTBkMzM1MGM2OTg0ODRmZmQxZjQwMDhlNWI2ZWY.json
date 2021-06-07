@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cWcfm3WqXq1UFuY8IhMFng==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X2194_Y110_W70_H48", 
+    "human_readable": "a_2194_110_70_48_a_000000000000000034007c004f6e77ff3ddb4ddb7dff356e0008000800000000_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+    "image_path": "ZjA4MTBkMzM1MGM2OTg0ODRmZmQxZjQwMDhlNWI2ZWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "https://equinoxtheshop.com/?icmp=topnav-shop"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 35, 
+            "x": 1097, 
+            "xPercent": 57.15820312499999, 
+            "y": 55, 
+            "yPercent": 0.8005287896592245
+        }, 
+        "location": {
+            "x": 1097, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 35
+        }, 
+        "tag_name": "a", 
+        "text": "Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2fa3a9a5434ed82c1077127a682416fd", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop", 
+    "transformed": true, 
+    "width": 70, 
+    "x": 2194, 
+    "y": 110
+}

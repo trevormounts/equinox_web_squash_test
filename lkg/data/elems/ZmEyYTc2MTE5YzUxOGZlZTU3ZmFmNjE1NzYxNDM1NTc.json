@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RmRnSS5fYFHcFnFdIg6KYw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X604_Y749_W235_H24", 
+    "human_readable": "div_604_749_235_24_div_ffffffff43ff73ff4bff007f007f807f007f007f007f007fffffffffffffffff_b0c28d11d06151b072773ec365c1844d", 
+    "image_path": "ZmEyYTc2MTE5YzUxOGZlZTU3ZmFmNjE1NzYxNDM1NTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "class-name___Nj6qP"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "class-name___Nj6qP", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Cardio Dance", 
+            "type": "", 
+            "value": "", 
+            "width": 235, 
+            "x": 604, 
+            "xPercent": 31.458333333333332, 
+            "y": 749, 
+            "yPercent": 8.851826672972333
+        }, 
+        "location": {
+            "x": 604, 
+            "y": 749
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 235
+        }, 
+        "tag_name": "div", 
+        "text": "Cardio Dance"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "95d7cfdfd4ee4cdf0c173b1fea5b868e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Cardio Dance", 
+    "transformed": true, 
+    "width": 235, 
+    "x": 604, 
+    "y": 749
+}

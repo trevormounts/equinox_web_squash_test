@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "C+m3wxgVMMvQuhcencRCdg==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "button_X1720_Y1178_W400_H112", 
+    "human_readable": "button_1720_1178_400_112_button_ffff8000c000800080008000cff0cff0cff0cfb0e000c000f000f800c000ffff_a26f4255500b119156d6104eb2389c4e", 
+    "image_path": "MDk0MGYxYTc0MzkzZjlhODA3MzA3Y2ZlZTM0YWRjMjU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "CLAIM OFFER", 
+                "class": "cta__large___2mEJb cta___2DuVU transparentButton___3MvPp undefined", 
+                "data-testid": "primary-cta", 
+                "title": "CLAIM OFFER"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cta__large___2mEJb cta___2DuVU transparentButton___3MvPp undefined", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 860, 
+            "xPercent": 44.79166666666667, 
+            "y": 589, 
+            "yPercent": 8.650897840775558
+        }, 
+        "location": {
+            "x": 860, 
+            "y": 589
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 200
+        }, 
+        "tag_name": "button", 
+        "text": "CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2fa3a9a5434ed82c1077127a682416fd", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "CLAIM OFFER", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 1720, 
+    "y": 1178
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fgFiZcBCHKi/cQtV1/WOBQ==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "span_X610_Y73_W88_H27", 
+    "human_readable": "span_610_73_88_27_span_ffffffffffffffff7fff400042004200420042010000179effffffffffffffff_eeaebd93e1542ad0d777cd022416950f", 
+    "image_path": "NmRjNjhmNzI3MzFiZGZlYjgyYzk0NDFjNjdiYjkxZDk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "textLabel___2hcNp   blackInput___3GwRN"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "textLabel___2hcNp   blackInput___3GwRN", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\"", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Last name", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 73, 
+            "yPercent": 0.8630882005202175
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 73
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 88
+        }, 
+        "tag_name": "span", 
+        "text": "Last name"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5dfa6e3311fd6da76cbfaf0105b21e54", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Last name", 
+    "transformed": true, 
+    "width": 88, 
+    "x": 610, 
+    "y": 73
+}

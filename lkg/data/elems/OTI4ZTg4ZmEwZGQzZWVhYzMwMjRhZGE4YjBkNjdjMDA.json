@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7McO2nbl6u8wHBPadSrxWQ==\n", 
+    "height": 90, 
+    "hier_level": 0, 
+    "human_hash": "input_X496_Y626_W1038_H90", 
+    "human_readable": "input_496_626_1038_90_input_00000000000000008000f4017e017e01fe01fe0100000000000000000000ffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OTI4ZTg4ZmEwZGQzZWVhYzMwMjRhZGE4YjBkNjdjMDA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Search Text", 
+                "autocomplete": "off", 
+                "class": "location-search-input pac-target-input", 
+                "name": "autoSearchString", 
+                "placeholder": "Enter City, State, Zipcode", 
+                "type": "text", 
+                "value": ""
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(153, 153, 153)", 
+            "cssClass": "location-search-input pac-target-input", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 45, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "autoSearchString", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "text", 
+            "value": "", 
+            "width": 519, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 313, 
+            "yPercent": 5.680580762250454
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 313
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 519
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "54b14ba8346733432b8d120bbff3c9a5", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 496, 
+    "y": 626
+}

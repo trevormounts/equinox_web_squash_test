@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "IrPCSFWq8yFe7ezkjD5kiQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "a_X110_Y182_W200_H56", 
+    "human_readable": "a_110_182_200_56_a_ffffffffffffffffffff800180018001a0018001e7ffffffffffffffffffffff_08a80d66efdf9391c4c11ee380a24fdf", 
+    "image_path": "YTdkMzA2NmE0MjZmZjFhNTRhNGM2N2ZmOWRlNGQwMTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "site-header__logo-image", 
+                "href": "/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "site-header__logo-image", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Graphik_Semibold", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "<img src=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587\"\n                     srcset=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587 1x, //cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x@2x.jpg?v=1600969587 2x\"\n                     alt=\"EQUINOX THE SHOP\"\n                     style=\"max-width: 100px;\">", 
+            "type": "", 
+            "value": "", 
+            "width": 100, 
+            "x": 55, 
+            "xPercent": 2.864583333333333, 
+            "y": 91, 
+            "yPercent": 2.082379862700229
+        }, 
+        "location": {
+            "x": 55, 
+            "y": 91
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 100
+        }, 
+        "tag_name": "a", 
+        "text": "<img src=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587\"\n                     srcset=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587 1x, //cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x@2x.jpg?v=1600969587 2x\"\n                     alt=\"EQUINOX THE SHOP\"\n                     style=\"max-width: 100px;\">"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d8079e2192198e290870fdff718ae585", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "<img src=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587\"\n                     srcset=\"//cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x.jpg?v=1600969587 1x, //cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_100x@2x.jpg?v=1600969587 2x\"\n                     alt=\"EQUINOX THE SHOP\"\n                     style=\"max-width: 100px;\">", 
+    "transformed": true, 
+    "width": 200, 
+    "x": 110, 
+    "y": 182
+}

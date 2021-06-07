@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Yovrdl+Pp08XVErp75OhxQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1562_Y110_W76_H48", 
+    "human_readable": "a_1562_110_76_48_a_000000000000000074407c60def6c6ffcedededb7fff31b60000000000000000_0cd40b062f1659290e2ca4a56aba6dfe", 
+    "image_path": "MDIzYmM1NDBlMTA1YWE5NWZiZGU3OGE3Mzg3ZmVlMjE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/clubs?icmp=topnav-clubs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 38, 
+            "x": 781, 
+            "xPercent": 40.6689453125, 
+            "y": 55, 
+            "yPercent": 0.582825366270987
+        }, 
+        "location": {
+            "x": 781, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 38
+        }, 
+        "tag_name": "a", 
+        "text": "Clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7acd074fb8b8b8253bc61eb14925793b", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Clubs", 
+    "transformed": true, 
+    "width": 76, 
+    "x": 1562, 
+    "y": 110
+}

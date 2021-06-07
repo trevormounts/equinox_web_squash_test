@@ -1,0 +1,29 @@
+{
+    "elems": {
+        "iter_00000_step_00004_49_a.png": [
+            "btn_view_this_club"
+        ], 
+        "iter_00000_step_00015_15_button.png": [
+            "btn_visit_the_club"
+        ], 
+        "iter_00000_step_00019_8_button.png": [
+            "btn_view_schedule"
+        ], 
+        "iter_00000_step_00020_3_div.png": [
+            "div_cardio_dance"
+        ], 
+        "iter_00000_step_00024_7_div.png": [
+            "div_first_name"
+        ], 
+        "iter_00000_step_00026_12_span.png": [
+            "span_last_name"
+        ], 
+        "iter_00000_step_00026_9_span.png": [
+            "span_first_name"
+        ], 
+        "iter_00000_step_00027_4_a.png": [
+            "btn_clubs"
+        ]
+    }, 
+    "screens": {}
+}
