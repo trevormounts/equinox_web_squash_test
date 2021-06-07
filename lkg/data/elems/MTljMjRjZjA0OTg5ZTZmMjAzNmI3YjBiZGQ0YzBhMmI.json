@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LikIANHsz83xOrnlv4SJpg==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "button_X1392_Y1108_W872_H42", 
+    "human_readable": "button_1392_1108_872_42_button_000000000000e000e000f000f000f000f000f000f000f0001000900000000000_c8770d20b1292d2ffdd5f8983c1a08b8", 
+    "image_path": "MTljMjRjZjA0OTg5ZTZmMjAzNmI3YjBiZGQ0YzBhMmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__internalCtaBtn___3nhtQ", 
+                "style": "color: white;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "moduleEditorialGrid2Column__internalCtaBtn___3nhtQ", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Explore Training", 
+            "type": "", 
+            "value": "", 
+            "width": 436, 
+            "x": 696, 
+            "xPercent": 36.25, 
+            "y": 554, 
+            "yPercent": 8.21285010373444
+        }, 
+        "location": {
+            "x": 696, 
+            "y": 554
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 436
+        }, 
+        "tag_name": "button", 
+        "text": "Explore Training"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0e26fdacc313d8b5f3de67b3be75be11", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Explore Training", 
+    "transformed": true, 
+    "width": 872, 
+    "x": 1392, 
+    "y": 1108
+}

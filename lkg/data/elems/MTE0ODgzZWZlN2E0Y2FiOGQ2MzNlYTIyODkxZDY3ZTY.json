@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "G7haSqJfoTr/niZzycJbcg==\n", 
+    "height": 46, 
+    "hier_level": 0, 
+    "human_hash": "button_X1761_Y801_W147_H46", 
+    "human_readable": "button_1761_801_147_46_button_80010000000000000000600066a067f867fc67f8000000000000000000000000_37479c9489ec75503a0d033e532c974e", 
+    "image_path": "MTE0ODgzZWZlN2E0Y2FiOGQ2MzNlYTIyODkxZDY3ZTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "uiButton helpButtonEnabled", 
+                "href": "javascript:void(0)"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "uiButton helpButtonEnabled", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12.25, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Live chat:Chat with us", 
+            "type": "", 
+            "value": "", 
+            "width": 147, 
+            "x": 1761, 
+            "xPercent": 91.71875, 
+            "y": 801, 
+            "yPercent": 9.125085440874916
+        }, 
+        "location": {
+            "x": 1761, 
+            "y": 801
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 147
+        }, 
+        "tag_name": "button", 
+        "text": "Live chat:Chat with us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "89eb6aa1da1877105790cd3e6442fa2f", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Live chat:Chat with us", 
+    "transformed": true, 
+    "width": 147, 
+    "x": 1761, 
+    "y": 801
+}

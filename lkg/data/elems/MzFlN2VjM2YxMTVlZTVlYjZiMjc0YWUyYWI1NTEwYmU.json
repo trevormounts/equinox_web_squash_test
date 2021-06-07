@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "exPPhL1d7BNkBqMHLvx6wQ==\n", 
+    "height": 426, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y104_W362_H426", 
+    "human_readable": "div_236_104_362_426_div_0000ffc0ffe00000ffe0ffe00000000000000000000000000000000000000000_6c8a689fc540ee262d7a69aba2502b88", 
+    "image_path": "MzFlN2VjM2YxMTVlZTVlYjZiMjc0YWUyYWI1NTEwYmU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-lg-4 col-md-16"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "col-lg-4 col-md-16", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 426, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "The Spa at Equinox: \n\nMaster Service List", 
+            "type": "", 
+            "value": "", 
+            "width": 362, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 104, 
+            "yPercent": 1.9030192131747483
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 104
+        }, 
+        "size": {
+            "height": 426, 
+            "width": 362
+        }, 
+        "tag_name": "div", 
+        "text": "The Spa at Equinox: \n\nMaster Service List"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d1e5d955f20dc879697c3bed95521380", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "The Spa at Equinox: \n\nMaster Service List", 
+    "transformed": true, 
+    "width": 362, 
+    "x": 236, 
+    "y": 104
+}

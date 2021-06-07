@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HoYVkbHCGSwDA6ZRAaH4iw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X2390_Y110_W216_H48", 
+    "human_readable": "a_2390_110_216_48_a_000000000000000000c4c0c6ffffffffffffff7fffff2eeb0000000000000000_74e178dd3c10ee46da7a88a522a9f5fd", 
+    "image_path": "ZDVlMDMwYjQ4YTE2YjdjMjVmODNkM2JhZDQ5ZDk1NTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/memberbenefits?icmp=topnav-memberbenefits"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Member Benefits", 
+            "type": "", 
+            "value": "", 
+            "width": 108, 
+            "x": 1195, 
+            "xPercent": 62.242838541666664, 
+            "y": 55, 
+            "yPercent": 0.8005287896592245
+        }, 
+        "location": {
+            "x": 1195, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 108
+        }, 
+        "tag_name": "a", 
+        "text": "Member Benefits"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2fa3a9a5434ed82c1077127a682416fd", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Member Benefits", 
+    "transformed": true, 
+    "width": 216, 
+    "x": 2390, 
+    "y": 110
+}

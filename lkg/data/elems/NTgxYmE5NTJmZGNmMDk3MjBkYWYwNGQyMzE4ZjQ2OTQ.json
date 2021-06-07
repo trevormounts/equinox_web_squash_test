@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "jT2JLCorlNWRhEUC7V7nbg==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y427_W112_H14", 
+    "human_readable": "a_248_427_112_14_a_000088008800220127f3aff3eff2a7b227b325c36ff36fff00049100ffff0000_13e2446e6e0e869d01a59e3f1dd0725e", 
+    "image_path": "NTgxYmE5NTJmZGNmMDk3MjBkYWYwNGQyMzE4ZjQ2OTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.equinox.com/landing/spa-service-list?icmp=spa-services-list"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Full Services List", 
+            "type": "", 
+            "value": "", 
+            "width": 112, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 427, 
+            "yPercent": 4.867815846434268
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 427
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 112
+        }, 
+        "tag_name": "a", 
+        "text": "Full Services List"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c2aa32e993487b2e9bcef97d8e1882ef", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Full Services List", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 248, 
+    "y": 427
+}

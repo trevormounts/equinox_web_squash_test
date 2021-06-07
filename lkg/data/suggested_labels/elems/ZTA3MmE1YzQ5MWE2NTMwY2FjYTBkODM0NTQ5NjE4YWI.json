@@ -1,0 +1,10 @@
+{
+    "mnu_shop": {
+        "all_scores": {
+            "hash_based": 1.0, 
+            "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+        }, 
+        "score": 1.0, 
+        "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+    }
+}

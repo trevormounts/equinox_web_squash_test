@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "IWQCORUR41+d0M4b4Cx9FA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X1948_Y210_W148_H58", 
+    "human_readable": "button_1948_210_148_58_button_ffffffffffffffffc83fc03fc03fc033c033c017c43fffffffffffffffffffff_b35af38e097176771153e9cd14001091", 
+    "image_path": "OWQ5NDZjMjBkYzY4N2Q4MGMxNjZjNTA2YTU3MWJmNzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "SiteNavLabel-sale", 
+                "aria-expanded": "false", 
+                "class": "site-nav__link site-nav__link--main site-nav__link--button", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "site-nav__link site-nav__link--main site-nav__link--button", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "SALE", 
+            "type": "button", 
+            "value": "", 
+            "width": 74, 
+            "x": 974, 
+            "xPercent": 50.70475260416667, 
+            "y": 105, 
+            "yPercent": 2.402745995423341
+        }, 
+        "location": {
+            "x": 974, 
+            "y": 105
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 74
+        }, 
+        "tag_name": "button", 
+        "text": "SALE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d8079e2192198e290870fdff718ae585", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "SALE", 
+    "transformed": true, 
+    "width": 148, 
+    "x": 1948, 
+    "y": 210
+}

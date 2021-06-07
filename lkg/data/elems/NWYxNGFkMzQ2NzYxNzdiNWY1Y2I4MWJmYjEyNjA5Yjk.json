@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WmsrfVbfeYl25L5tG9TWeA==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "h3_X2496_Y1112_W872_H56", 
+    "human_readable": "h3_2496_1112_872_56_h3_000000000000d6009600ff00ff00ff00ff00ff00ff00ff000000000000000000_1dd80906c7723f9a00ccb5038545265e", 
+    "image_path": "NWYxNGFkMzQ2NzYxNzdiNWY1Y2I4MWJmYjEyNjA5Yjk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__title___2-XzN", 
+                "style": "color: white;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "moduleEditorialGrid2Column__title___2-XzN", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 20, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Unlimited Group Fitness", 
+            "type": "", 
+            "value": "", 
+            "width": 436, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 556, 
+            "yPercent": 8.237857513337286
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 556
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 436
+        }, 
+        "tag_name": "h3", 
+        "text": "Unlimited Group Fitness"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a719a5b6c4a4e518481e4584f1e00228", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Unlimited Group Fitness", 
+    "transformed": true, 
+    "width": 872, 
+    "x": 2496, 
+    "y": 1112
+}

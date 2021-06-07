@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UXV1PF4Zb0yuuiSH/KgN9w==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X2150_Y152_W166_H58", 
+    "human_readable": "button_2150_152_166_58_button_ffffffffffffffffc01fc01fc01fc01bc04bc01bc05fffffffffffffffffffff_a8eb83fdd96949849305e11c7906d04e", 
+    "image_path": "MWJkODQ3NmIzNjVhMTcyNjM4NDhjMGZkNmQ0YzY4MzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "SiteNavLabel-mens", 
+                "aria-expanded": "false", 
+                "class": "site-nav__link site-nav__link--main site-nav__link--button", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(58, 58, 58)", 
+            "cssClass": "site-nav__link site-nav__link--main site-nav__link--button", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, \"Helvetica Neue\", Arial, \"Lucida Grande\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "MEN'S", 
+            "type": "button", 
+            "value": "", 
+            "width": 83, 
+            "x": 1075, 
+            "xPercent": 56.009928385416664, 
+            "y": 76, 
+            "yPercent": 1.7391304347826086
+        }, 
+        "location": {
+            "x": 1075, 
+            "y": 76
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 83
+        }, 
+        "tag_name": "button", 
+        "text": "MEN'S"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d8079e2192198e290870fdff718ae585", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "MEN'S", 
+    "transformed": true, 
+    "width": 166, 
+    "x": 2150, 
+    "y": 152
+}
