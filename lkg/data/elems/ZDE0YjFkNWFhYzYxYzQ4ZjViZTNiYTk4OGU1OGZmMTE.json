@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Hg0D+jir9D0ERFShuc3KyA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "span_X766_Y924_W174_H24", 
+    "human_readable": "span_766_924_174_24_span_ffffffffffbf3f303f3001f081b28138813001f401f001f00090efdfffffffff_b39614476da441c00bffc0c4a3a8fe7b", 
+    "image_path": "ZDE0YjFkNWFhYzYxYzQ4ZjViZTNiYTk4OGU1OGZmMTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(153, 153, 153)", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Orlando, FL, USA", 
+            "type": "", 
+            "value": "", 
+            "width": 87, 
+            "x": 383, 
+            "xPercent": 19.938151041666664, 
+            "y": 462, 
+            "yPercent": 8.38475499092559
+        }, 
+        "location": {
+            "x": 383, 
+            "y": 462
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 87
+        }, 
+        "tag_name": "span", 
+        "text": "Orlando, FL, USA"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "6a53114c8e3e070a96bbf82ad545d6f7", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Orlando, FL, USA", 
+    "transformed": true, 
+    "width": 174, 
+    "x": 766, 
+    "y": 924
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "qpq3/uo04BFoqb0QXe4iFQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "button_X248_Y444_W200_H56", 
+    "human_readable": "button_248_444_200_56_button_ffff000000000000000000000f700ff00ff0077000000000000000000000ffff_f9119e1309208481aa02778e9375c5df", 
+    "image_path": "MTFiMjRiZGJkZTI4MGJlODI3OGM0OWUxYmM2YmExMDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Visit the Club", 
+                "class": "cta__large___2mEJb", 
+                "data-testid": "primary-cta", 
+                "title": "Visit the Club"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cta__large___2mEJb", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Visit the Club", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 444, 
+            "yPercent": 5.249467959328447
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 444
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 200
+        }, 
+        "tag_name": "button", 
+        "text": "Visit the Club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "91171a252dbb922cc54c5e0050305c26", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Visit the Club", 
+    "transformed": true, 
+    "width": 200, 
+    "x": 248, 
+    "y": 444
+}

@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BKLArC3zc/wJaiu3U7roHg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X2194_Y110_W70_H48", 
+    "human_readable": "span_2194_110_70_48_span_000000000000000034007c004f6e77ff3ddb4ddb7dff356e0008000800000000_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+    "image_path": "ZTA3MmE1YzQ5MWE2NTMwY2FjYTBkODM0NTQ5NjE4YWI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 35, 
+            "x": 1097, 
+            "xPercent": 57.15820312499999, 
+            "y": 55, 
+            "yPercent": 0.807766414702831
+        }, 
+        "location": {
+            "x": 1097, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 35
+        }, 
+        "tag_name": "span", 
+        "text": "Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "40a4e24870014530f89a1fe30238a0e3", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Shop", 
+    "transformed": true, 
+    "width": 70, 
+    "x": 2194, 
+    "y": 110
+}

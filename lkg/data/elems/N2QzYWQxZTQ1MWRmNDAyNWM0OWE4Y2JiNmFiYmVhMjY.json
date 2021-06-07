@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "txrWUhots6g+tloKot4/CA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X2974_Y110_W144_H48", 
+    "human_readable": "a_2974_110_144_48_a_0000000000000000419041907d7f7f7f7ffffffffdfff1930000000000000000_6510ec9b4846314982dbfa0543e0efac", 
+    "image_path": "N2QzYWQxZTQ1MWRmNDAyNWM0OWE4Y2JiNmFiYmVhMjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/join/step1?icmp=topnav-join"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Online", 
+            "type": "", 
+            "value": "", 
+            "width": 72, 
+            "x": 1487, 
+            "xPercent": 77.46907552083333, 
+            "y": 55, 
+            "yPercent": 0.8005287896592245
+        }, 
+        "location": {
+            "x": 1487, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 72
+        }, 
+        "tag_name": "a", 
+        "text": "Join Online"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2fa3a9a5434ed82c1077127a682416fd", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Online", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 2974, 
+    "y": 110
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0xp+x3rXD01n97e57YePvg==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X484_Y106_W262_H54", 
+    "human_readable": "a_484_106_262_54_a_00000000000000005000dffadffaff7eff7adffed7fed6fb1800000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTNmMTIwZTUzOTZjMzQyZGEzZjQwYjkxMWNkYzIxNzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "brandLogo___2Go0n", 
+                "href": "/", 
+                "title": "Equinox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "brandLogo___2Go0n", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 131, 
+            "x": 242, 
+            "xPercent": 12.604166666666666, 
+            "y": 53, 
+            "yPercent": 0.7784958871915394
+        }, 
+        "location": {
+            "x": 242, 
+            "y": 53
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 131
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2fa3a9a5434ed82c1077127a682416fd", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 262, 
+    "x": 484, 
+    "y": 106
+}

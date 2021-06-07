@@ -1,0 +1,1749 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_span.png": "iter_00000_step_00000_0_span.png", 
+            "iter_00000_step_00000_10_a.png": "iter_00000_step_00000_10_a.png", 
+            "iter_00000_step_00000_11_a.png": "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00000_12_div.png": "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_13_div.png": "iter_00000_step_00000_13_div.png", 
+            "iter_00000_step_00000_14_a.png": "iter_00000_step_00000_14_a.png", 
+            "iter_00000_step_00000_15_span.png": "iter_00000_step_00000_15_span.png", 
+            "iter_00000_step_00000_16_div.png": "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00000_17_span.png": "iter_00000_step_00000_17_span.png", 
+            "iter_00000_step_00000_18_div.png": "iter_00000_step_00000_18_div.png", 
+            "iter_00000_step_00000_19_div.png": "iter_00000_step_00000_19_div.png", 
+            "iter_00000_step_00000_1_button.png": "iter_00000_step_00000_1_button.png", 
+            "iter_00000_step_00000_20_img.png": "iter_00000_step_00000_20_img.png", 
+            "iter_00000_step_00000_21_span.png": "iter_00000_step_00000_21_span.png", 
+            "iter_00000_step_00000_22_a.png": "iter_00000_step_00000_22_a.png", 
+            "iter_00000_step_00000_23_div.png": "iter_00000_step_00000_23_div.png", 
+            "iter_00000_step_00000_24_span.png": "iter_00000_step_00000_24_span.png", 
+            "iter_00000_step_00000_25_span.png": "iter_00000_step_00000_25_span.png", 
+            "iter_00000_step_00000_26_span.png": "iter_00000_step_00000_26_span.png", 
+            "iter_00000_step_00000_27_img.png": "iter_00000_step_00000_27_img.png", 
+            "iter_00000_step_00000_28_span.png": "iter_00000_step_00000_28_span.png", 
+            "iter_00000_step_00000_29_div.png": "iter_00000_step_00000_29_div.png", 
+            "iter_00000_step_00000_2_span.png": "iter_00000_step_00000_2_span.png", 
+            "iter_00000_step_00000_30_div.png": "iter_00000_step_00000_30_div.png", 
+            "iter_00000_step_00000_31_div.png": "iter_00000_step_00000_31_div.png", 
+            "iter_00000_step_00000_32_a.png": "iter_00000_step_00000_32_a.png", 
+            "iter_00000_step_00000_33_a.png": "iter_00000_step_00000_33_a.png", 
+            "iter_00000_step_00000_34_a.png": "iter_00000_step_00000_34_a.png", 
+            "iter_00000_step_00000_35_span.png": "iter_00000_step_00000_35_span.png", 
+            "iter_00000_step_00000_36_button.png": "iter_00000_step_00000_36_button.png", 
+            "iter_00000_step_00000_37_span.png": "iter_00000_step_00000_37_span.png", 
+            "iter_00000_step_00000_38_span.png": "iter_00000_step_00000_38_span.png", 
+            "iter_00000_step_00000_39_a.png": "iter_00000_step_00000_39_a.png", 
+            "iter_00000_step_00000_3_a.png": "iter_00000_step_00000_3_a.png", 
+            "iter_00000_step_00000_40_div.png": "iter_00000_step_00000_40_div.png", 
+            "iter_00000_step_00000_41_a.png": "iter_00000_step_00000_41_a.png", 
+            "iter_00000_step_00000_42_span.png": "iter_00000_step_00000_42_span.png", 
+            "iter_00000_step_00000_43_span.png": "iter_00000_step_00000_43_span.png", 
+            "iter_00000_step_00000_44_span.png": "iter_00000_step_00000_44_span.png", 
+            "iter_00000_step_00000_45_span.png": "iter_00000_step_00000_45_span.png", 
+            "iter_00000_step_00000_46_div.png": "iter_00000_step_00000_46_div.png", 
+            "iter_00000_step_00000_47_div.png": "iter_00000_step_00000_47_div.png", 
+            "iter_00000_step_00000_48_a.png": "iter_00000_step_00000_48_a.png", 
+            "iter_00000_step_00000_49_a.png": "iter_00000_step_00000_49_a.png", 
+            "iter_00000_step_00000_4_h1.png": "iter_00000_step_00000_4_h1.png", 
+            "iter_00000_step_00000_50_a.png": "iter_00000_step_00000_50_a.png", 
+            "iter_00000_step_00000_51_span.png": "iter_00000_step_00000_51_span.png", 
+            "iter_00000_step_00000_52_div.png": "iter_00000_step_00000_52_div.png", 
+            "iter_00000_step_00000_53_a.png": "iter_00000_step_00000_53_a.png", 
+            "iter_00000_step_00000_5_span.png": "iter_00000_step_00000_5_span.png", 
+            "iter_00000_step_00000_6_span.png": "iter_00000_step_00000_6_span.png", 
+            "iter_00000_step_00000_7_a.png": "iter_00000_step_00000_7_a.png", 
+            "iter_00000_step_00000_8_div.png": "iter_00000_step_00000_8_div.png", 
+            "iter_00000_step_00000_9_div.png": "iter_00000_step_00000_9_div.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "y7v0eOC53c3uIPp5/2CAow==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1583_Y56_W78_H22", 
+                    "tag_name": "span", 
+                    "text": "Claim Offer", 
+                    "width": 78, 
+                    "x": 1583, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Claim_Offer"
+                ]
+            }, 
+            "iter_00000_step_00000_10_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "OHdqo23YauKNZLUsv1/1hw==\n", 
+                    "height": 27, 
+                    "human_hash": "a_X242_Y53_W131_H27", 
+                    "tag_name": "a", 
+                    "text": "", 
+                    "width": 131, 
+                    "x": 242, 
+                    "y": 53
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_11_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "zicqs3/O3yucW5boCEznvA==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1169_Y56_W116_H22", 
+                    "tag_name": "a", 
+                    "text": "Member Benefits", 
+                    "width": 116, 
+                    "x": 1169, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Member_Benefits"
+                ]
+            }, 
+            "iter_00000_step_00000_12_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "G6KxrNzAwdrgUSoigZbAgA==\n", 
+                    "height": 24, 
+                    "human_hash": "div_X1427_Y55_W32_H24", 
+                    "tag_name": "div", 
+                    "text": "Login", 
+                    "width": 32, 
+                    "x": 1427, 
+                    "y": 55
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Login"
+                ]
+            }, 
+            "iter_00000_step_00000_13_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "UfqGlVLZtry0corU4011Eg==\n", 
+                    "height": 46, 
+                    "human_hash": "div_X1761_Y832_W147_H46", 
+                    "tag_name": "div", 
+                    "text": "Live chat:Chat with us", 
+                    "width": 147, 
+                    "x": 1761, 
+                    "y": 832
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Live_chat:Chat_with_us"
+                ]
+            }, 
+            "iter_00000_step_00000_14_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "W91s3WlE1A6S+cs6UwMOiA==\n", 
+                    "height": 36, 
+                    "human_hash": "a_X1572_Y49_W100_H36", 
+                    "tag_name": "a", 
+                    "text": "Claim Offer", 
+                    "width": 100, 
+                    "x": 1572, 
+                    "y": 49
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Claim_Offer"
+                ]
+            }, 
+            "iter_00000_step_00000_15_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "euJuG/8zhst1qy5/2tfn9g==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1514_Y9_W67_H22", 
+                    "tag_name": "span", 
+                    "text": "Studios", 
+                    "width": 67, 
+                    "x": 1514, 
+                    "y": 9
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Studios"
+                ]
+            }, 
+            "iter_00000_step_00000_16_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "LVSXi2HDhaHp9A3yjCqshQ==\n", 
+                    "height": 38, 
+                    "human_hash": "div_X248_Y0_W1429_H38", 
+                    "tag_name": "div", 
+                    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotels", 
+                    "width": 1429, 
+                    "x": 248, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Discover_our_other_brandsHigh_Performance_LivingLocationsStudiosHotels"
+                ]
+            }, 
+            "iter_00000_step_00000_17_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "F8PIcokcudLFzA8LD4w3mQ==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1303_Y56_W106_H22", 
+                    "tag_name": "span", 
+                    "text": "Equinox Alumni", 
+                    "width": 106, 
+                    "x": 1303, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Equinox_Alumni"
+                ]
+            }, 
+            "iter_00000_step_00000_18_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_18_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "TxtplQajl982k9FRDuyTSg==\n", 
+                    "height": 36, 
+                    "human_hash": "div_X240_Y2_W174_H36", 
+                    "tag_name": "div", 
+                    "text": "Discover our other brandsHigh Performance Living", 
+                    "width": 174, 
+                    "x": 240, 
+                    "y": 2
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Discover_our_other_brandsHigh_Performance_Living"
+                ]
+            }, 
+            "iter_00000_step_00000_19_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "JrsVGP0UBJ2UX7chnvLAyA==\n", 
+                    "height": 1, 
+                    "human_hash": "div_X236_Y38_W1448_H1", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 1448, 
+                    "x": 236, 
+                    "y": 38
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_1_button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "OV5lhKw8HP5ogrMPp1phQw==\n", 
+                    "height": 46, 
+                    "human_hash": "button_X1761_Y832_W147_H46", 
+                    "tag_name": "button", 
+                    "text": "Live chat:Chat with us", 
+                    "width": 147, 
+                    "x": 1761, 
+                    "y": 832
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Live_chat:Chat_with_us"
+                ]
+            }, 
+            "iter_00000_step_00000_20_img.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "5pzDZjgs8p4wILYI2DFynA==\n", 
+                    "height": 15, 
+                    "human_hash": "img_X249_Y60_W123_H15", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 123, 
+                    "x": 249, 
+                    "y": 60
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_21_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "/deo8FMx4XoJTEPyKFcqNw==\n", 
+                    "height": 211, 
+                    "human_hash": "span_X607_Y228_W706_H211", 
+                    "tag_name": "span", 
+                    "text": "WELCOME BACK, NEW YORK.", 
+                    "width": 706, 
+                    "x": 607, 
+                    "y": 228
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WELCOME_BACK,_NEW_YORK."
+                ]
+            }, 
+            "iter_00000_step_00000_22_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_22_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Lm0e5VJlVlzhfP+o+mnHNw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1068_Y56_W37_H22", 
+                    "tag_name": "a", 
+                    "text": "Shop", 
+                    "width": 37, 
+                    "x": 1068, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Shop"
+                ]
+            }, 
+            "iter_00000_step_00000_23_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "/Ba2LyG31WlMlDxPCMAWhA==\n", 
+                    "height": 36, 
+                    "human_hash": "div_X1572_Y49_W100_H36", 
+                    "tag_name": "div", 
+                    "text": "Claim Offer", 
+                    "width": 100, 
+                    "x": 1572, 
+                    "y": 49
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Claim_Offer"
+                ]
+            }, 
+            "iter_00000_step_00000_24_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "XzosP862IW4awxZU+FlQ6w==\n", 
+                    "height": 46, 
+                    "human_hash": "span_X1798_Y832_W98_H46", 
+                    "tag_name": "span", 
+                    "text": "Live chat:Chat with us", 
+                    "width": 98, 
+                    "x": 1798, 
+                    "y": 832
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Live_chat:Chat_with_us"
+                ]
+            }, 
+            "iter_00000_step_00000_25_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "xxpB7q2kOzrsuRk5Z/usig==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X870_Y56_W117_H22", 
+                    "tag_name": "span", 
+                    "text": "Personal Training", 
+                    "width": 117, 
+                    "x": 870, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Personal_Training"
+                ]
+            }, 
+            "iter_00000_step_00000_26_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "xefY+FrHG3dM4qP8cjr60A==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X741_Y56_W40_H22", 
+                    "tag_name": "span", 
+                    "text": "Clubs", 
+                    "width": 40, 
+                    "x": 741, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Clubs"
+                ]
+            }, 
+            "iter_00000_step_00000_27_img.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_27_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "ZdM0fmQoIWQnQwsgjNrzNw==\n", 
+                    "height": 24, 
+                    "human_hash": "img_X1431_Y55_W24_H24", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 24, 
+                    "x": 1431, 
+                    "y": 55
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_28_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_28_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "McC2gs99JfCt/rRtsEQJhA==\n", 
+                    "height": 1, 
+                    "human_hash": "span_X1847_Y855_W1_H1", 
+                    "tag_name": "span", 
+                    "text": "Live chat:", 
+                    "width": 1, 
+                    "x": 1847, 
+                    "y": 855
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Live_chat:"
+                ]
+            }, 
+            "iter_00000_step_00000_29_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_29_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "0AVMERgpi+HdE7MeoSUmow==\n", 
+                    "height": 38, 
+                    "human_hash": "div_X236_Y0_W1448_H38", 
+                    "tag_name": "div", 
+                    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.", 
+                    "width": 1448, 
+                    "x": 236, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Discover_our_other_brandsHigh_Performance_LivingLocationsStudiosHotelsEquinox_Fitness_ClubA_temple_of_well-being_featuring_world-class_personal_trainers,_Group_Fitness_classes,_spas_and_more.Equinox_Sports_ClubMore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._A_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.E_by_EquinoxUnequaled._Unexpected._Utterly_personal._A_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._Precision_RunSurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.Equinox_HotelsFueled_by_ambition._Powered_by_possibilities._Experience_luxury_for_those_who_want_it_all."
+                ]
+            }, 
+            "iter_00000_step_00000_2_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_2_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "l+3e7ll3hS1tXy72mZTBdA==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1477_Y56_W77_H22", 
+                    "tag_name": "span", 
+                    "text": "Join Online", 
+                    "width": 77, 
+                    "x": 1477, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Join_Online"
+                ]
+            }, 
+            "iter_00000_step_00000_30_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_30_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "eC8qq5oviAQseKC8tfsriA==\n", 
+                    "height": 94, 
+                    "human_hash": "div_X0_Y0_W1920_H94", 
+                    "tag_name": "div", 
+                    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin OnlineClaim Offer", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Discover_our_other_brandsHigh_Performance_LivingLocationsStudiosHotelsEquinox_Fitness_ClubA_temple_of_well-being_featuring_world-class_personal_trainers,_Group_Fitness_classes,_spas_and_more.Equinox_Sports_ClubMore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._A_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.E_by_EquinoxUnequaled._Unexpected._Utterly_personal._A_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._Precision_RunSurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.Equinox_HotelsFueled_by_ambition._Powered_by_possibilities._Experience_luxury_for_those_who_want_it_all.ClubsClassesPersonal_TrainingPilatesShopSpaMember_BenefitsEquinox_AlumniLoginJoin_OnlineClaim_Offer"
+                ]
+            }, 
+            "iter_00000_step_00000_31_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_31_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "ZlmihtogDUB+nHWOtV7zyg==\n", 
+                    "height": 56, 
+                    "human_hash": "div_X779_Y554_W362_H56", 
+                    "tag_name": "div", 
+                    "text": "CLAIM OFFER", 
+                    "width": 362, 
+                    "x": 779, 
+                    "y": 554
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_32_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_32_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "wiQsV2h1uTOIjzWhoEUJfQ==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1005_Y56_W46_H22", 
+                    "tag_name": "a", 
+                    "text": "Pilates", 
+                    "width": 46, 
+                    "x": 1005, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Pilates"
+                ]
+            }, 
+            "iter_00000_step_00000_33_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_33_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "KYIMHIjJR0DcU2Zs49EpPA==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1477_Y56_W77_H22", 
+                    "tag_name": "a", 
+                    "text": "Join Online", 
+                    "width": 77, 
+                    "x": 1477, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Join_Online"
+                ]
+            }, 
+            "iter_00000_step_00000_34_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_34_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "mol+KUQUt223pw5trewKew==\n", 
+                    "height": 29, 
+                    "human_hash": "a_X1427_Y53_W32_H29", 
+                    "tag_name": "a", 
+                    "text": "Login", 
+                    "width": 32, 
+                    "x": 1427, 
+                    "y": 53
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Login"
+                ]
+            }, 
+            "iter_00000_step_00000_35_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_35_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "KBjwaHMFvk5T1b000xiLog==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1005_Y56_W46_H22", 
+                    "tag_name": "span", 
+                    "text": "Pilates", 
+                    "width": 46, 
+                    "x": 1005, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Pilates"
+                ]
+            }, 
+            "iter_00000_step_00000_36_button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_36_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "PzpLTOCTjoBKQRCTOF26AA==\n", 
+                    "height": 56, 
+                    "human_hash": "button_X860_Y554_W200_H56", 
+                    "tag_name": "button", 
+                    "text": "CLAIM OFFER", 
+                    "width": 200, 
+                    "x": 860, 
+                    "y": 554
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_37_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_37_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "ehlKF8LBb+I/vYauf1kmlg==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X799_Y56_W53_H22", 
+                    "tag_name": "span", 
+                    "text": "Classes", 
+                    "width": 53, 
+                    "x": 799, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Classes"
+                ]
+            }, 
+            "iter_00000_step_00000_38_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_38_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "WkOJrKxykOchJJsxY5Nw5Q==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1612_Y9_W60_H22", 
+                    "tag_name": "span", 
+                    "text": "Hotels", 
+                    "width": 60, 
+                    "x": 1612, 
+                    "y": 9
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Hotels"
+                ]
+            }, 
+            "iter_00000_step_00000_39_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_39_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "eHA8eGTDb4nGhYq/k6QXDw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1303_Y56_W106_H22", 
+                    "tag_name": "a", 
+                    "text": "Equinox Alumni", 
+                    "width": 106, 
+                    "x": 1303, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Equinox_Alumni"
+                ]
+            }, 
+            "iter_00000_step_00000_3_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "UoxpgAwHNMdM8UDzMYgF6Q==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X741_Y56_W40_H22", 
+                    "tag_name": "a", 
+                    "text": "Clubs", 
+                    "width": 40, 
+                    "x": 741, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Clubs"
+                ]
+            }, 
+            "iter_00000_step_00000_40_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_40_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "0+47ik3Iar52FSR8cEu6Zg==\n", 
+                    "height": 38, 
+                    "human_hash": "div_X0_Y0_W1920_H38", 
+                    "tag_name": "div", 
+                    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Discover_our_other_brandsHigh_Performance_LivingLocationsStudiosHotelsEquinox_Fitness_ClubA_temple_of_well-being_featuring_world-class_personal_trainers,_Group_Fitness_classes,_spas_and_more.Equinox_Sports_ClubMore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._A_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.E_by_EquinoxUnequaled._Unexpected._Utterly_personal._A_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._Precision_RunSurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.Equinox_HotelsFueled_by_ambition._Powered_by_possibilities._Experience_luxury_for_those_who_want_it_all."
+                ]
+            }, 
+            "iter_00000_step_00000_41_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_41_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Se7QTS0i3aobaCWsRXaYuw==\n", 
+                    "height": 36, 
+                    "human_hash": "a_X1505_Y2_W85_H36", 
+                    "tag_name": "a", 
+                    "text": "Studios", 
+                    "width": 85, 
+                    "x": 1505, 
+                    "y": 2
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Studios"
+                ]
+            }, 
+            "iter_00000_step_00000_42_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_42_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "LCNKJ2hL4zOUdUvkcv48/w==\n", 
+                    "height": 14, 
+                    "human_hash": "span_X914_Y575_W92_H14", 
+                    "tag_name": "span", 
+                    "text": "CLAIM OFFER", 
+                    "width": 92, 
+                    "x": 914, 
+                    "y": 575
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_43_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_43_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "I8kusZIjL0Cie1ABwyDELg==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1068_Y56_W37_H22", 
+                    "tag_name": "span", 
+                    "text": "Shop", 
+                    "width": 37, 
+                    "x": 1068, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Shop"
+                ]
+            }, 
+            "iter_00000_step_00000_44_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_44_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "qKZdzhh94uY3iEyg1EQsNg==\n", 
+                    "height": 16, 
+                    "human_hash": "span_X1773_Y847_W15_H16", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 15, 
+                    "x": 1773, 
+                    "y": 847
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_45_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_45_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "BB4rOwca0ksEGp5OrtCbYw==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1169_Y56_W116_H22", 
+                    "tag_name": "span", 
+                    "text": "Member Benefits", 
+                    "width": 116, 
+                    "x": 1169, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Member_Benefits"
+                ]
+            }, 
+            "iter_00000_step_00000_46_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_46_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "IM1k3PQmxFeFxp0+aRWBBA==\n", 
+                    "height": 416, 
+                    "human_hash": "div_X236_Y94_W1448_H416", 
+                    "tag_name": "div", 
+                    "text": "WELCOME BACK, NEW YORK.WELCOME BACK, NEW YORK.Join Equinox today for an exclusive offer.CLAIM OFFER", 
+                    "width": 1448, 
+                    "x": 236, 
+                    "y": 94
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WELCOME_BACK,_NEW_YORK.WELCOME_BACK,_NEW_YORK.Join_Equinox_today_for_an_exclusive_offer.CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_47_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_47_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OuE8vhvW2YeeFDREH3jeVA==\n", 
+                    "height": 395, 
+                    "human_hash": "div_X0_Y94_W1920_H395", 
+                    "tag_name": "div", 
+                    "text": "WELCOME BACK, NEW YORK.WELCOME BACK, NEW YORK.Join Equinox today for an exclusive offer.CLAIM OFFER", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "y": 94
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WELCOME_BACK,_NEW_YORK.WELCOME_BACK,_NEW_YORK.Join_Equinox_today_for_an_exclusive_offer.CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_48_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_48_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Zt9rGmU7iQrGqfKe/2nexw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1123_Y56_W28_H22", 
+                    "tag_name": "a", 
+                    "text": "Spa", 
+                    "width": 28, 
+                    "x": 1123, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Spa"
+                ]
+            }, 
+            "iter_00000_step_00000_49_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_49_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "tZn4t+9GTxW/rlfIKhHzwQ==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X870_Y56_W117_H22", 
+                    "tag_name": "a", 
+                    "text": "Personal Training", 
+                    "width": 117, 
+                    "x": 870, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Personal_Training"
+                ]
+            }, 
+            "iter_00000_step_00000_4_h1.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "WYr4H0ZEe7VbzkB0E6UNNg==\n", 
+                    "height": 192, 
+                    "human_hash": "h1_X598_Y238_W724_H192", 
+                    "tag_name": "h1", 
+                    "text": "WELCOME BACK, NEW YORK.", 
+                    "width": 724, 
+                    "x": 598, 
+                    "y": 238
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WELCOME_BACK,_NEW_YORK."
+                ]
+            }, 
+            "iter_00000_step_00000_50_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_50_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "On7eBBN2jKZGHoK0eoEZIA==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X799_Y56_W53_H22", 
+                    "tag_name": "a", 
+                    "text": "Classes", 
+                    "width": 53, 
+                    "x": 799, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Classes"
+                ]
+            }, 
+            "iter_00000_step_00000_51_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_51_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "cxkoVLfGUnd/OomTG76rsg==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1123_Y56_W28_H22", 
+                    "tag_name": "span", 
+                    "text": "Spa", 
+                    "width": 28, 
+                    "x": 1123, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Spa"
+                ]
+            }, 
+            "iter_00000_step_00000_52_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_52_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "UlLJ9N1Q/JUZaGJamtGV5A==\n", 
+                    "height": 416, 
+                    "human_hash": "div_X598_Y194_W724_H416", 
+                    "tag_name": "div", 
+                    "text": "WELCOME BACK, NEW YORK.WELCOME BACK, NEW YORK.Join Equinox today for an exclusive offer.CLAIM OFFER", 
+                    "width": 724, 
+                    "x": 598, 
+                    "y": 194
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WELCOME_BACK,_NEW_YORK.WELCOME_BACK,_NEW_YORK.Join_Equinox_today_for_an_exclusive_offer.CLAIM_OFFER"
+                ]
+            }, 
+            "iter_00000_step_00000_53_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_53_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "yvTb50pFvPqXcabdlPxVIw==\n", 
+                    "height": 36, 
+                    "human_hash": "a_X1389_Y2_W102_H36", 
+                    "tag_name": "a", 
+                    "text": "Locations", 
+                    "width": 102, 
+                    "x": 1389, 
+                    "y": 2
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Locations"
+                ]
+            }, 
+            "iter_00000_step_00000_5_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "j9fu6+jJQZvbm/fleTO6NA==\n", 
+                    "height": 14, 
+                    "human_hash": "span_X1813_Y848_W67_H14", 
+                    "tag_name": "span", 
+                    "text": "Chat with us", 
+                    "width": 67, 
+                    "x": 1813, 
+                    "y": 848
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Chat_with_us"
+                ]
+            }, 
+            "iter_00000_step_00000_6_span.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "fSaCvWW32uvyRa3o8wa8RQ==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X1398_Y9_W84_H22", 
+                    "tag_name": "span", 
+                    "text": "Locations", 
+                    "width": 84, 
+                    "x": 1398, 
+                    "y": 9
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Locations"
+                ]
+            }, 
+            "iter_00000_step_00000_7_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "WIAiuwSPk8eWyurZBzxxxQ==\n", 
+                    "height": 36, 
+                    "human_hash": "a_X1603_Y2_W69_H36", 
+                    "tag_name": "a", 
+                    "text": "Hotels", 
+                    "width": 69, 
+                    "x": 1603, 
+                    "y": 2
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Hotels"
+                ]
+            }, 
+            "iter_00000_step_00000_8_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "YXEWnCNEhFphwHvF87vvEQ==\n", 
+                    "height": 36, 
+                    "human_hash": "div_X741_Y49_W931_H36", 
+                    "tag_name": "div", 
+                    "text": "ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin OnlineClaim Offer", 
+                    "width": 931, 
+                    "x": 741, 
+                    "y": 49
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "ClubsClassesPersonal_TrainingPilatesShopSpaMember_BenefitsEquinox_AlumniLoginJoin_OnlineClaim_Offer"
+                ]
+            }, 
+            "iter_00000_step_00000_9_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "tsm0s/jWkObG0AW2zAjqYw==\n", 
+                    "height": 36, 
+                    "human_hash": "div_X236_Y49_W1448_H36", 
+                    "tag_name": "div", 
+                    "text": "ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin OnlineClaim Offer", 
+                    "width": 1448, 
+                    "x": 236, 
+                    "y": 49
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "ClubsClassesPersonal_TrainingPilatesShopSpaMember_BenefitsEquinox_AlumniLoginJoin_OnlineClaim_Offer"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_47_div.png", 
+            "iter_00000_step_00000_46_div.png", 
+            "iter_00000_step_00000_52_div.png", 
+            "iter_00000_step_00000_30_div.png", 
+            "iter_00000_step_00000_21_span.png", 
+            "iter_00000_step_00000_4_h1.png", 
+            "iter_00000_step_00000_40_div.png", 
+            "iter_00000_step_00000_29_div.png", 
+            "iter_00000_step_00000_16_div.png", 
+            "iter_00000_step_00000_9_div.png", 
+            "iter_00000_step_00000_8_div.png", 
+            "iter_00000_step_00000_31_div.png", 
+            "iter_00000_step_00000_36_button.png", 
+            "iter_00000_step_00000_1_button.png", 
+            "iter_00000_step_00000_13_div.png", 
+            "iter_00000_step_00000_18_div.png", 
+            "iter_00000_step_00000_24_span.png", 
+            "iter_00000_step_00000_53_a.png", 
+            "iter_00000_step_00000_14_a.png", 
+            "iter_00000_step_00000_23_div.png", 
+            "iter_00000_step_00000_10_a.png", 
+            "iter_00000_step_00000_41_a.png", 
+            "iter_00000_step_00000_49_a.png", 
+            "iter_00000_step_00000_25_span.png", 
+            "iter_00000_step_00000_45_span.png", 
+            "iter_00000_step_00000_11_a.png", 
+            "iter_00000_step_00000_7_a.png", 
+            "iter_00000_step_00000_17_span.png", 
+            "iter_00000_step_00000_39_a.png", 
+            "iter_00000_step_00000_6_span.png", 
+            "iter_00000_step_00000_20_img.png", 
+            "iter_00000_step_00000_0_span.png", 
+            "iter_00000_step_00000_33_a.png", 
+            "iter_00000_step_00000_2_span.png", 
+            "iter_00000_step_00000_15_span.png", 
+            "iter_00000_step_00000_19_div.png", 
+            "iter_00000_step_00000_38_span.png", 
+            "iter_00000_step_00000_42_span.png", 
+            "iter_00000_step_00000_37_span.png", 
+            "iter_00000_step_00000_50_a.png", 
+            "iter_00000_step_00000_32_a.png", 
+            "iter_00000_step_00000_35_span.png", 
+            "iter_00000_step_00000_5_span.png", 
+            "iter_00000_step_00000_34_a.png", 
+            "iter_00000_step_00000_3_a.png", 
+            "iter_00000_step_00000_26_span.png", 
+            "iter_00000_step_00000_22_a.png", 
+            "iter_00000_step_00000_43_span.png", 
+            "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_51_span.png", 
+            "iter_00000_step_00000_48_a.png", 
+            "iter_00000_step_00000_27_img.png", 
+            "iter_00000_step_00000_44_span.png", 
+            "iter_00000_step_00000_28_span.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_span.png": [
+                "iter_00000_step_00000_0_span.png"
+            ], 
+            "iter_00000_step_00000_10_a.png": [
+                "iter_00000_step_00000_10_a.png"
+            ], 
+            "iter_00000_step_00000_11_a.png": [
+                "iter_00000_step_00000_11_a.png"
+            ], 
+            "iter_00000_step_00000_12_div.png": [
+                "iter_00000_step_00000_12_div.png"
+            ], 
+            "iter_00000_step_00000_13_div.png": [
+                "iter_00000_step_00000_13_div.png"
+            ], 
+            "iter_00000_step_00000_14_a.png": [
+                "iter_00000_step_00000_14_a.png"
+            ], 
+            "iter_00000_step_00000_15_span.png": [
+                "iter_00000_step_00000_15_span.png"
+            ], 
+            "iter_00000_step_00000_16_div.png": [
+                "iter_00000_step_00000_16_div.png"
+            ], 
+            "iter_00000_step_00000_17_span.png": [
+                "iter_00000_step_00000_17_span.png"
+            ], 
+            "iter_00000_step_00000_18_div.png": [
+                "iter_00000_step_00000_18_div.png"
+            ], 
+            "iter_00000_step_00000_19_div.png": [
+                "iter_00000_step_00000_19_div.png"
+            ], 
+            "iter_00000_step_00000_1_button.png": [
+                "iter_00000_step_00000_1_button.png"
+            ], 
+            "iter_00000_step_00000_20_img.png": [
+                "iter_00000_step_00000_20_img.png"
+            ], 
+            "iter_00000_step_00000_21_span.png": [
+                "iter_00000_step_00000_21_span.png"
+            ], 
+            "iter_00000_step_00000_22_a.png": [
+                "iter_00000_step_00000_22_a.png"
+            ], 
+            "iter_00000_step_00000_23_div.png": [
+                "iter_00000_step_00000_23_div.png"
+            ], 
+            "iter_00000_step_00000_24_span.png": [
+                "iter_00000_step_00000_24_span.png"
+            ], 
+            "iter_00000_step_00000_25_span.png": [
+                "iter_00000_step_00000_25_span.png"
+            ], 
+            "iter_00000_step_00000_26_span.png": [
+                "iter_00000_step_00000_26_span.png"
+            ], 
+            "iter_00000_step_00000_27_img.png": [
+                "iter_00000_step_00000_27_img.png"
+            ], 
+            "iter_00000_step_00000_28_span.png": [
+                "iter_00000_step_00000_28_span.png"
+            ], 
+            "iter_00000_step_00000_29_div.png": [
+                "iter_00000_step_00000_29_div.png"
+            ], 
+            "iter_00000_step_00000_2_span.png": [
+                "iter_00000_step_00000_2_span.png"
+            ], 
+            "iter_00000_step_00000_30_div.png": [
+                "iter_00000_step_00000_30_div.png"
+            ], 
+            "iter_00000_step_00000_31_div.png": [
+                "iter_00000_step_00000_31_div.png"
+            ], 
+            "iter_00000_step_00000_32_a.png": [
+                "iter_00000_step_00000_32_a.png"
+            ], 
+            "iter_00000_step_00000_33_a.png": [
+                "iter_00000_step_00000_33_a.png"
+            ], 
+            "iter_00000_step_00000_34_a.png": [
+                "iter_00000_step_00000_34_a.png"
+            ], 
+            "iter_00000_step_00000_35_span.png": [
+                "iter_00000_step_00000_35_span.png"
+            ], 
+            "iter_00000_step_00000_36_button.png": [
+                "iter_00000_step_00000_36_button.png"
+            ], 
+            "iter_00000_step_00000_37_span.png": [
+                "iter_00000_step_00000_37_span.png"
+            ], 
+            "iter_00000_step_00000_38_span.png": [
+                "iter_00000_step_00000_38_span.png"
+            ], 
+            "iter_00000_step_00000_39_a.png": [
+                "iter_00000_step_00000_39_a.png"
+            ], 
+            "iter_00000_step_00000_3_a.png": [
+                "iter_00000_step_00000_3_a.png"
+            ], 
+            "iter_00000_step_00000_40_div.png": [
+                "iter_00000_step_00000_40_div.png"
+            ], 
+            "iter_00000_step_00000_41_a.png": [
+                "iter_00000_step_00000_41_a.png"
+            ], 
+            "iter_00000_step_00000_42_span.png": [
+                "iter_00000_step_00000_42_span.png"
+            ], 
+            "iter_00000_step_00000_43_span.png": [
+                "iter_00000_step_00000_43_span.png"
+            ], 
+            "iter_00000_step_00000_44_span.png": [
+                "iter_00000_step_00000_44_span.png"
+            ], 
+            "iter_00000_step_00000_45_span.png": [
+                "iter_00000_step_00000_45_span.png"
+            ], 
+            "iter_00000_step_00000_46_div.png": [
+                "iter_00000_step_00000_46_div.png"
+            ], 
+            "iter_00000_step_00000_47_div.png": [
+                "iter_00000_step_00000_47_div.png"
+            ], 
+            "iter_00000_step_00000_48_a.png": [
+                "iter_00000_step_00000_48_a.png"
+            ], 
+            "iter_00000_step_00000_49_a.png": [
+                "iter_00000_step_00000_49_a.png"
+            ], 
+            "iter_00000_step_00000_4_h1.png": [
+                "iter_00000_step_00000_4_h1.png"
+            ], 
+            "iter_00000_step_00000_50_a.png": [
+                "iter_00000_step_00000_50_a.png"
+            ], 
+            "iter_00000_step_00000_51_span.png": [
+                "iter_00000_step_00000_51_span.png"
+            ], 
+            "iter_00000_step_00000_52_div.png": [
+                "iter_00000_step_00000_52_div.png"
+            ], 
+            "iter_00000_step_00000_53_a.png": [
+                "iter_00000_step_00000_53_a.png"
+            ], 
+            "iter_00000_step_00000_5_span.png": [
+                "iter_00000_step_00000_5_span.png"
+            ], 
+            "iter_00000_step_00000_6_span.png": [
+                "iter_00000_step_00000_6_span.png"
+            ], 
+            "iter_00000_step_00000_7_a.png": [
+                "iter_00000_step_00000_7_a.png"
+            ], 
+            "iter_00000_step_00000_8_div.png": [
+                "iter_00000_step_00000_8_div.png"
+            ], 
+            "iter_00000_step_00000_9_div.png": [
+                "iter_00000_step_00000_9_div.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_span.png", 
+                "iter_00000_step_00000_1_button.png", 
+                "iter_00000_step_00000_2_span.png", 
+                "iter_00000_step_00000_3_a.png", 
+                "iter_00000_step_00000_4_h1.png", 
+                "iter_00000_step_00000_5_span.png", 
+                "iter_00000_step_00000_6_span.png", 
+                "iter_00000_step_00000_7_a.png", 
+                "iter_00000_step_00000_8_div.png", 
+                "iter_00000_step_00000_9_div.png", 
+                "iter_00000_step_00000_10_a.png", 
+                "iter_00000_step_00000_11_a.png", 
+                "iter_00000_step_00000_12_div.png", 
+                "iter_00000_step_00000_13_div.png", 
+                "iter_00000_step_00000_14_a.png", 
+                "iter_00000_step_00000_15_span.png", 
+                "iter_00000_step_00000_16_div.png", 
+                "iter_00000_step_00000_17_span.png", 
+                "iter_00000_step_00000_18_div.png", 
+                "iter_00000_step_00000_19_div.png", 
+                "iter_00000_step_00000_20_img.png", 
+                "iter_00000_step_00000_21_span.png", 
+                "iter_00000_step_00000_22_a.png", 
+                "iter_00000_step_00000_23_div.png", 
+                "iter_00000_step_00000_24_span.png", 
+                "iter_00000_step_00000_25_span.png", 
+                "iter_00000_step_00000_26_span.png", 
+                "iter_00000_step_00000_27_img.png", 
+                "iter_00000_step_00000_28_span.png", 
+                "iter_00000_step_00000_29_div.png", 
+                "iter_00000_step_00000_30_div.png", 
+                "iter_00000_step_00000_31_div.png", 
+                "iter_00000_step_00000_32_a.png", 
+                "iter_00000_step_00000_33_a.png", 
+                "iter_00000_step_00000_34_a.png", 
+                "iter_00000_step_00000_35_span.png", 
+                "iter_00000_step_00000_36_button.png", 
+                "iter_00000_step_00000_37_span.png", 
+                "iter_00000_step_00000_38_span.png", 
+                "iter_00000_step_00000_39_a.png", 
+                "iter_00000_step_00000_40_div.png", 
+                "iter_00000_step_00000_41_a.png", 
+                "iter_00000_step_00000_42_span.png", 
+                "iter_00000_step_00000_43_span.png", 
+                "iter_00000_step_00000_44_span.png", 
+                "iter_00000_step_00000_45_span.png", 
+                "iter_00000_step_00000_46_div.png", 
+                "iter_00000_step_00000_47_div.png", 
+                "iter_00000_step_00000_48_a.png", 
+                "iter_00000_step_00000_49_a.png", 
+                "iter_00000_step_00000_50_a.png", 
+                "iter_00000_step_00000_51_span.png", 
+                "iter_00000_step_00000_52_div.png", 
+                "iter_00000_step_00000_53_a.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "h1", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "shop", 
+                    "studios", 
+                    "claim_offer", 
+                    "locations", 
+                    "welcome_back,_new_york.", 
+                    "clubs", 
+                    "spa", 
+                    "live_chat:", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotelsequinox_fitness_cluba_temple_of_well-being_featuring_world-class_personal_trainers,_group_fitness_classes,_spas_and_more.equinox_sports_clubmore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._a_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.e_by_equinoxunequaled._unexpected._utterly_personal._a_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._precision_runsurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.equinox_hotelsfueled_by_ambition._powered_by_possibilities._experience_luxury_for_those_who_want_it_all.clubsclassespersonal_trainingpilatesshopspamember_benefitsequinox_alumniloginjoin_onlineclaim_offer", 
+                    "hotels", 
+                    "pilates", 
+                    "clubsclassespersonal_trainingpilatesshopspamember_benefitsequinox_alumniloginjoin_onlineclaim_offer", 
+                    "chat_with_us", 
+                    "member_benefits", 
+                    "discover_our_other_brandshigh_performance_living", 
+                    "live_chat:chat_with_us", 
+                    "join_online", 
+                    "equinox_alumni", 
+                    "welcome_back,_new_york.welcome_back,_new_york.join_equinox_today_for_an_exclusive_offer.claim_offer", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotelsequinox_fitness_cluba_temple_of_well-being_featuring_world-class_personal_trainers,_group_fitness_classes,_spas_and_more.equinox_sports_clubmore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._a_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.e_by_equinoxunequaled._unexpected._utterly_personal._a_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._precision_runsurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.equinox_hotelsfueled_by_ambition._powered_by_possibilities._experience_luxury_for_those_who_want_it_all.", 
+                    "personal_training", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotels", 
+                    "classes", 
+                    "login"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

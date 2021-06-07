@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "NiJ9cPG6u3s2V8o8bZPgOg==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y73_W90_H27", 
+    "human_readable": "span_248_73_90_27_span_ffffffffffff1fff3fff410000000200520042014000f7deffffffffffffffff_2e19dc7459bfe4954b2387042b0f4c07", 
+    "image_path": "ZGMyNzY3YzhjZjkxMWE0OTJmMDE1ZmJlYmE2ZDVmYWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "textLabel___2hcNp  inValid___1Gvk2 blackInput___3GwRN"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(238, 0, 0)", 
+            "cssClass": "textLabel___2hcNp  inValid___1Gvk2 blackInput___3GwRN", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\"", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "First name", 
+            "type": "", 
+            "value": "", 
+            "width": 90, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 73, 
+            "yPercent": 0.8630882005202175
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 73
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 90
+        }, 
+        "tag_name": "span", 
+        "text": "First name"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5dfa6e3311fd6da76cbfaf0105b21e54", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "First name", 
+    "transformed": true, 
+    "width": 90, 
+    "x": 248, 
+    "y": 73
+}
